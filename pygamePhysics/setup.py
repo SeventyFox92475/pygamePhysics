@@ -7,7 +7,7 @@ setup(
   license='MIT',        # Chose a license from here: https://help.github.com/articles/licensing-a-repository
   description = 'A simple physics engine for pygame',   # Give a short description about your library
   author = 'Ethan Culp',                   # Type in your name
-  author_email = 'ethan.culp101@gmail.com,      # Type in your E-Mail
+  author_email = 'ethan.culp101@gmail.com',      # Type in your E-Mail
   url = 'https://github.com/seventyfox92475',   # Provide either the link to your github or to your website
   download_url = 'https://github.com/seventyfox92475/pygamePhysics/archive/v_01.tar.gz',    # I explain this later on
   keywords = ['PHYSICS', 'PHYSICS', 'EASY'],   # Keywords that define your package best
